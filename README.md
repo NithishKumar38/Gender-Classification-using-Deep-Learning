@@ -6,6 +6,8 @@ It consists of:
 - **Detection script** – uses the trained model to perform real-time gender classification via webcam.  
 
 ---
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/e7a8dabf-3f4a-451c-9ef3-09dfd5950a96" />
+
 
 ## 🚀 Features  
 - CNN model built with **TensorFlow & Keras**  
